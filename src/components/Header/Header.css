@@ -1,0 +1,26 @@
+  .active-link {
+    color: rgb(21, 255, 0); /* Set the color for the active link */
+    font-weight: bold; /* Optionally, make the active link bold */
+    }
+  
+  ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+  }
+  
+  link{
+    text-decoration: none;
+  }
+
+  ul li {
+    /* color: darkblue; */
+    margin: 5px;
+  }
+  
+  .active {
+    color: blue; /* Change the active link color to blue */
+    font-weight: bold; /* Make the active link bold */
+  }
+  
